@@ -3,9 +3,8 @@
 ##### Full Map Reference including item names: https://i.imgur.com/CiUhitW.jpg  
 This is a Christmas present for Leodox and Foosda. Thank you for what you do!    
 
-Rules:
 
-#### Rules
+#### Rules:
 
       Level design modified to prevent softlocks and assist newer players
       Save often!
