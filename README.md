@@ -1,6 +1,7 @@
 # Z-Factor Item Randomizer
 # Downloads: [Z-Factor Item Randomizer v1.00](https://github.com/Galamoz/Z-Factor-ItemRandomizer/releases/download/1.0/Z-Factor.Item.Rando.v1.0.exe)
-##### Full Map Reference including item names: https://i.imgur.com/CiUhitW.jpg
+##### Full Map Reference including item names: https://i.imgur.com/CiUhitW.jpg  
+This is a Christmas present for Leodox and Foosda. Thank you for what you do!    
 
 Rules:
 
