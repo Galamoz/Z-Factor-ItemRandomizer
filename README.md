@@ -2,7 +2,12 @@
 # Downloads: [Z-Factor Item Randomizer v1.00](https://github.com/Galamoz/Z-Factor-ItemRandomizer/releases/download/1.0/Z-Factor.Item.Rando.v1.0.exe)
 ##### Full Map Reference including item names: https://i.imgur.com/CiUhitW.jpg
 
-Rules:  
+Rules:
+
+#### Rules
+
+      Level design modified to prevent softlocks and assist newer players
+      Save often!
      
       
 #### Casual Difficulty
@@ -18,7 +23,9 @@ Rules:
       All 110 Items are included
       Hellruns and Suitless Maridia are possible (Suits can spawn anywhere possible)
       IBJ and a few other advanced techniques are required
-      All items are hidden as in vanilla z-factor
+      All items are hidden as in vanilla Z-Factor
+      Hi Jump Boots may or may not spawn in Maridia
+          A player may not leave Suitless Maridia unless Hi Jump Boots is obtained
       
 ----------------------------------------------  
 
