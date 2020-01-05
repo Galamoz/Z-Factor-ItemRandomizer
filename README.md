@@ -47,6 +47,7 @@ v 1.1
     Fixed Etecoon Room
     Lower Norfair Statue no longer dies to a power bomb
     Slight changes made to Speedrunner difficulty randomization
+    Fixed Item duplication at "Red Tower Secret Chozo"
     
 v 1.0
 
