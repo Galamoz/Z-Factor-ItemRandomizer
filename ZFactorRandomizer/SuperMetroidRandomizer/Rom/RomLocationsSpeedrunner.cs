@@ -30,6 +30,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Crateria,
                                    Name = "Ocean",
+                                   Weight = 1,
                                    Address = 0x7C9E9,
                                    CanAccess =
                                        have =>
@@ -45,6 +46,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Crateria,
                                    Name = "Grapple Cave",
+                                   Weight = 1,
                                    Address = 0x7C9BF,
                                    CanAccess =
                                        have =>
@@ -59,6 +61,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Crateria,
                                    Name = "Elevator Chozo",
+                                   Weight = 1,
                                    Address = 0x7C8E5,
 									ItemStorageType = ItemStorageType.Chozo,
                                    CanAccess =
@@ -74,6 +77,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Crateria,
                                    Name = "Lake Tank",
+                                   Weight = 1,
                                    Address = 0x7C9AB,
                                    CanAccess =
                                        have =>
@@ -86,6 +90,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Crateria,
                                    Name = "Pancake House",
+                                   Weight = 1,
                                    Address = 0x7C9F1,
                                    CanAccess =
                                        have =>
@@ -101,6 +106,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Crateria,
                                    Name = "Red Bluff",
+                                   Weight = 1,
                                    Address = 0x7CB2B,
                                    CanAccess =
                                        have =>
@@ -117,6 +123,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Crateria,
                                    Name = "ILoveSuperBlocks",
+                                   Weight = 1,
                                    Address = 0x7C943,
                                    CanAccess =
                                        have =>
@@ -132,6 +139,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Crateria,
                                     Name = "Old Mother Brain",
+                                   Weight = 1,
                                    Address = 0x7C949,
                                    CanAccess =
                                        have =>
@@ -147,6 +155,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Crateria,
                                    Name = "Bomb Torizo",
+                                   Weight = 1,
                                    Address = 0x7C895,
                                    CanAccess =
                                        have =>
@@ -162,6 +171,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Crateria,
                                    Name = "Creep Highway",
+                                   Weight = 1,
                                    Address = 0x7CA1B,
                                    CanAccess =
                                        have =>
@@ -182,6 +192,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Crateria,
                                    Name = "Cliff Chozo",
+                                   Weight = 1,
                                    Address = 0x7C911,
 									ItemStorageType = ItemStorageType.Chozo,
                                    CanAccess =
@@ -201,6 +212,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Crateria,
                                    Name = "Mushroom Etank",
+                                   Weight = 1,
                                    Address = 0x7C98F,
                                    CanAccess =
                                        have =>
@@ -218,6 +230,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Crateria,
                                    Name = "Mushroom Cave",
+                                   Weight = 1,
                                    Address = 0x7C995,
                                    CanAccess =
                                        have =>
@@ -236,6 +249,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Morphing Ball",
+                                   Weight = 1,
                                    Address = 0x7CBF1,
                                    CanAccess =
                                        have =>
@@ -248,6 +262,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Chozo Stash",
+                                   Weight = 1,
                                    Address = 0x7CC11,
                                    CanAccess =
                                        have =>
@@ -260,6 +275,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Construction",
+                                   Weight = 1,
                                    Address = 0x7CBEB,
                                    CanAccess =
                                        have =>
@@ -272,6 +288,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Cactus Trap",
+                                   Weight = 1,
                                    Address = 0x7CDD1,
                                    CanAccess =
                                        have =>
@@ -288,6 +305,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "SporeSpawn Supers",
+                                   Weight = 1,
                                    Address = 0x7CBDD,
                                    CanAccess =
                                        have =>
@@ -306,6 +324,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "SporeSpawn's Secret",
+                                   Weight = 1,
                                    Address = 0x7CBD7,
                                    CanAccess =
                                        have =>
@@ -324,6 +343,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Dragon Spark",
+                                   Weight = 1,
                                    Address = 0x7CDDF,
                                    CanAccess =
                                        have =>
@@ -338,6 +358,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Microwaved Egg",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Hidden,
                                    Address = 0x7CC4F,
                                    CanAccess =
@@ -352,6 +373,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Sidehopper Secret",
+                                   Weight = 1,
                                    Address = 0x7CC55,
                                    CanAccess =
                                        have =>
@@ -364,6 +386,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Charge Beam",
+                                   Weight = 1,
                                    Address = 0x7CE23,
                                    CanAccess =
                                        have =>
@@ -376,6 +399,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "KiHunter Alley",
+                                   Weight = 1,
                                    Address = 0x7CED5,
                                    CanAccess =
                                        have =>
@@ -388,6 +412,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Crumble Bridge",
+                                   Weight = 1,
                                    Address = 0x7CEAF,
                                    CanAccess =
                                        have =>
@@ -401,6 +426,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Treasure Island",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Hidden,
                                    Address = 0x7CF2B,
                                    CanAccess =
@@ -415,6 +441,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Super Secret Saveroom",
+                                   Weight = 1,
                                    Address = 0x7CF33,
                                    CanAccess =
                                        have =>
@@ -428,6 +455,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Clubhouse",
+                                   Weight = 1,
                                    Address = 0x7CC47,
                                    CanAccess =
                                        have =>
@@ -441,6 +469,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Brinstar Reserves",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7CF47,
                                    CanAccess =
@@ -454,6 +483,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Pet Slug",
+                                   Weight = 1,
                                    Address = 0x7CEA7,
                                    CanAccess =
                                        have =>
@@ -466,6 +496,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Flowerhead",
+                                   Weight = 1,
                                    Address = 0x7CE15,
                                    CanAccess =
                                        have =>
@@ -489,6 +520,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Elevator Cave",
+                                   Weight = 1,
                                    Address = 0x7CE6F,
                                    CanAccess =
                                        have =>
@@ -502,6 +534,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Husband",
+                                   Weight = 1,
                                    Address = 0x7CE0D,
                                    CanAccess =
                                        have =>
@@ -515,6 +548,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Wife",
+                                   Weight = 1,
                                    Address = 0x7CE07,
                                    CanAccess =
                                        have =>
@@ -529,6 +563,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Irrigation",
+                                   Weight = 1,
                                    Address = 0x7CCFF,
                                    CanAccess =
                                        have =>
@@ -543,6 +578,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Sunken Warehouse - Grapple",
+                                   Weight = 1,
                                    Address = 0x7CD37,
                                    CanAccess =
                                        have =>
@@ -556,6 +592,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Kraid's House",
+                                   Weight = 1,
                                    Address = 0x7CD3D,
                                    CanAccess =
                                        have =>
@@ -569,8 +606,9 @@ namespace SuperMetroidRandomizer.Rom
                                    NoHidden = true,
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
-                                   Name = "4 PUNKS",
-                                   Address = 0x7CF57,
+                                   Name = "4 PUNKS", 
+                                   Weight = 1,
+                                   Address = 0x7CD57, //corrected from 0x7CF57
                                    CanAccess =
                                        have =>
                                    	CanDefeatKraid(have)
@@ -585,6 +623,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Pirate Cage",
+                                   Weight = 1,
                                    Address = 0x7CC2D,
                                    CanAccess =
                                        have =>
@@ -599,6 +638,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Ripper Hangout",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Hidden,
                                    Address = 0x7CD6B,
                                    CanAccess =
@@ -612,6 +652,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Hellraiser",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Hidden,
                                    Address = 0x7CC95,
                                    CanAccess =
@@ -627,6 +668,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Sewer Chozo - Spazer",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7CC8D,
                                    CanAccess =
@@ -641,6 +683,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Varia Suit",
+                                   Weight = 1,
                                    Address = 0x7CBB5,
                                    CanAccess =
                                        have =>
@@ -653,7 +696,9 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Red Tower Secret",
-                                   Address = 0x7CD9F,
+                                   Weight = 1,
+                                   //Address = 0x7CD9F, duplication glitch?
+                                   Address = 0x7cd9b,
                                    CanAccess =
                                        have =>
                                    	CanLeftSideCrateria(have)
@@ -666,6 +711,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Red Tower Secret Chozo",
+                                   Weight = 1,
                                    Address = 0x7CD9B,
                                    CanAccess =
                                        have =>
@@ -680,6 +726,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Red Bull - Left",
+                                   Weight = 1,
                                    Address = 0x7CDA9,
                                    CanAccess =
                                        have =>
@@ -694,6 +741,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Brinstar,
                                    Name = "Red Bull - Right",
+                                   Weight = 1,
                                    Address = 0x7CDA3,
                                    CanAccess =
                                        have =>
@@ -707,6 +755,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.LowerNorfair,
                                    Name = "Golden Egg",
+                                   Weight = 100,
                                    Address = 0x7D07F,
                                    CanAccess =
                                        have =>
@@ -722,6 +771,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Norfair Entrance",
+                                   Weight = 1,
                                    Address = 0x7D2E3,
                                    CanAccess =
                                        have =>
@@ -735,6 +785,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Pain",
+                                   Weight = 1,
                                    Address = 0x7D2EB,
                                    CanAccess =
                                        have =>
@@ -750,6 +801,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Sova Maze",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7D2FF,
                                    CanAccess =
@@ -764,6 +816,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Sova Chozo - HiJumpBoot",
+                                   Weight = 1,
                                    Address = 0x7D305,
                                    CanAccess =
                                        have =>
@@ -777,6 +830,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Factory",
+                                   Weight = 1,
                                    Address = 0x7D27D,
                                    CanAccess =
                                        have =>
@@ -791,6 +845,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "'Croc Power Bombs'",
+                                   Weight = 100,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7D251,
                                    CanAccess =
@@ -806,6 +861,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "'Croc Missiles'",
+                                   Weight = 1,
                                    Address = 0x7CFAB,
                                    CanAccess =
                                        have =>
@@ -822,6 +878,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Pool Party",
+                                   Weight = 1,
                                    Address = 0x7D2C1,
                                    CanAccess =
                                        have =>
@@ -839,6 +896,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Trip to the Dentist",
+                                   Weight = 1,
                                    Address = 0x7D389,
                                    CanAccess =
                                        have =>
@@ -855,6 +913,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Borderlands",
+                                   Weight = 1,
                                    Address = 0x7D2AB,
                                    CanAccess =
                                        have =>
@@ -868,6 +927,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Lava Lake",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7D375,
                                    CanAccess =
@@ -882,6 +942,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Norfair Reserves",
+                                   Weight = 100,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7D333,
                                    CanAccess =
@@ -896,6 +957,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Lava Chozo",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7D361,
                                    CanAccess =
@@ -911,6 +973,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Guardhouse - Ice Beam",
+                                   Weight = 100,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7D443,
                                    CanAccess =
@@ -924,6 +987,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Lava Dive",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Hidden,
                                    Address = 0x7D20B,
                                    CanAccess =
@@ -947,6 +1011,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Wave Beam",
+                                   Weight = 100,
                                    Address = 0x7D4B5,
                                    CanAccess =
                                        have =>
@@ -962,6 +1027,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "dragon lake i guess",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Hidden,
                                    Address = 0x7D421,
                                    CanAccess =
@@ -977,6 +1043,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "The Hideout",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7D3D7,
                                    CanAccess =
@@ -992,6 +1059,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "that's cool",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Hidden,
                                    Address = 0x7D40B,
                                    CanAccess =
@@ -1007,6 +1075,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Fire Island",
+                                   Weight = 1,
                                    Address = 0x7D403,
                                    CanAccess =
                                        have =>
@@ -1021,6 +1090,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "SpikeSuit Chozo",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7D39D,
                                    CanAccess =
@@ -1037,6 +1107,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Norfair,
                                    Name = "Farm Chozo",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7D461,
                                    CanAccess =
@@ -1054,6 +1125,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.LowerNorfair,
                                    Name = "Ridley Etank",
+                                   Weight = 100,
                                    Address = 0x7D13B,
                                    CanAccess =
                                        have =>
@@ -1070,6 +1142,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.LowerNorfair,
                                    Name = "Pink Cage",
+                                   Weight = 1,
                                    Address = 0x7D133,
                                    CanAccess =
                                        have =>
@@ -1085,6 +1158,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.LowerNorfair,
                                    Name = "Bird Cage", 
+                                   Weight = 1,
                                    Address = 0x7CFFD,
                                    CanAccess =
                                        have =>
@@ -1097,6 +1171,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.LowerNorfair,
                                    Name = "Bubble Road of Pain",
+                                   Weight = 1,
                                    Address = 0x7CFD1,
                                    CanAccess =
                                        have =>
@@ -1109,6 +1184,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.LowerNorfair,
                                    Name = "ILoveSupers3",
+                                   Weight = 1,
                                    Address = 0x7D087,
                                    CanAccess =
                                        have =>
@@ -1123,6 +1199,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.WreckedShip,
                                    Name = "ILoveSuperBlocks2",
+                                   Weight = 1,
                                    Address = 0x7D5ED,
                                    CanAccess =
                                        have =>
@@ -1140,6 +1217,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.WreckedShip,
                                    Name = "Chozo Jail 1",
+                                   Weight = 1,
                                    Address = 0x7D573,
                                    CanAccess =
                                        have =>
@@ -1152,6 +1230,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.WreckedShip,
                                    Name = "Broken Hold",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Hidden,
                                    Address = 0x7D68D,
                                    CanAccess =
@@ -1167,6 +1246,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.WreckedShip,
                                    Name = "Gutterball",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7D52D,
                                    CanAccess =
@@ -1181,10 +1261,11 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.WreckedShip,
                                    Name = "Pancake Drop",
+                                   Weight = 1,
                                    Address = 0x7D71B,
                                    CanAccess =
                                        have =>
-                                   	CanEnterWS(have)
+                                   	CanDefeatPhantoon(have)
                                    	&& CanEnterPassages(have)
                                    	&& have.Contains(ItemType.HiJumpBoots)
                                    	&& have.Contains(ItemType.IceBeam)
@@ -1197,6 +1278,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.WreckedShip,
                                    Name = "Gravity Suit",
+                                   Weight = 100,
                                    Address = 0x7D4ED,
                                    CanAccess =
                                        have =>
@@ -1211,6 +1293,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.WreckedShip,
                                    Name = "Kitchen",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Hidden,
                                    Address = 0x7D7E1,
                                    CanAccess =
@@ -1229,6 +1312,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.WreckedShip,
                                    Name = "The Tenderizer",
+                                   Weight = 1,
                                    Address = 0x7D6EF,
                                    CanAccess =
                                        have =>
@@ -1244,6 +1328,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.WreckedShip,
                                    Name = "POOPDECK",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7D73B,
                                    CanAccess =
@@ -1257,6 +1342,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.WreckedShip,
                                    Name = "Piranha Tank",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Hidden,
                                    Address = 0x7D77B,
                                    CanAccess =
@@ -1271,6 +1357,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Speedbooster Chozo",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7D8F9,
                                    CanAccess =
@@ -1285,6 +1372,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Shaktool Reserves",
+                                   Weight = 100,
                                    Address = 0x7D859,
                                    CanAccess =
                                        have =>
@@ -1298,6 +1386,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Sandfall Secret",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Hidden,
                                    Address = 0x7D879,
                                    CanAccess =
@@ -1312,6 +1401,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Super Chozo",
+                                   Weight = 1,
                                    Address = 0x7D975,
                                    CanAccess =
                                        have =>
@@ -1325,6 +1415,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Sunken Save Station",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Hidden,
                                    Address = 0x7D989,
                                    CanAccess =
@@ -1339,6 +1430,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Pink Pirate House",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7D9CB,
                                    CanAccess =
@@ -1353,6 +1445,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Everest",
+                                   Weight = 1,
                                    Address = 0x7D9F1,
                                    CanAccess =
                                        have =>
@@ -1369,6 +1462,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Mama Turtle - Left",
+                                   Weight = 1,
                                    Address = 0x7DA1B,
                                    CanAccess =
                                        have =>
@@ -1383,6 +1477,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Mama Turtle - Right",
+                                   Weight = 1,
                                    Address = 0x7DA15,
                                    CanAccess =
                                        have =>
@@ -1395,6 +1490,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Springball Maze",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7D967,
                                    CanAccess =
@@ -1410,6 +1506,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Tor",
+                                   Weight = 1,
                                    Address = 0x7D9A7,
                                    CanAccess =
                                        have =>
@@ -1422,6 +1519,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Jail Chozo 2",
+                                   Weight = 1,
                                    Address = 0x7DAD9,
                                    CanAccess =
                                        have =>
@@ -1437,6 +1535,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "ILoveSuperBlocks 4",
+                                   Weight = 1,
                                    Address = 0x7DA55,
                                    CanAccess =
                                        have =>
@@ -1450,6 +1549,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Fortress",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7DA81,
                                    CanAccess =
@@ -1466,6 +1566,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Eden",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Hidden,
                                    Address = 0x7DABD,
                                    CanAccess =
@@ -1480,6 +1581,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Purple Guy",
+                                   Weight = 1,
                                    Address = 0x7DAC5,
                                    CanAccess =
                                        have =>
@@ -1492,6 +1594,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Pre-Crumble City - The Fall",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Hidden,
                                    Address = 0x7DC19,
                                    CanAccess =
@@ -1507,6 +1610,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Plasma Beam",
+                                   Weight = 100,
                                    Address = 0x7DC2D,
                                    CanAccess =
                                        have =>
@@ -1519,6 +1623,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Jail Bird",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7DBD9,
                                    CanAccess =
@@ -1532,6 +1637,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Evidence",
+                                   Weight = 1,
                                    Address = 0x7DBE7,
                                    CanAccess =
                                        have =>
@@ -1544,6 +1650,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "The Farmhouse",
+                                   Weight = 1,
                                    Address = 0x7D93B,
                                    CanAccess =
                                        have =>
@@ -1561,6 +1668,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Sandpit",
+                                   Weight = 1,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7D923,
                                    CanAccess =
@@ -1574,6 +1682,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Space Jump",
+                                   Weight = 100,
 									ItemStorageType = ItemStorageType.Chozo,
                                    Address = 0x7DBD1,
                                    CanAccess =
@@ -1587,6 +1696,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Pipe Dream",
+                                   Weight = 1,
                                    Address = 0x7DB51,
                                    CanAccess =
                                        have =>
@@ -1599,6 +1709,7 @@ namespace SuperMetroidRandomizer.Rom
                                    GravityOkay = false,  
                                    Region = Region.Maridia,
                                    Name = "Grapple Climb",
+                                   Weight = 1,
                                    Address = 0x7DB7D,
                                    CanAccess =
                                        have =>
@@ -1769,7 +1880,8 @@ namespace SuperMetroidRandomizer.Rom
         public List<Location> GetAvailableLocations(List<ItemType> haveItems)
         {
             var retVal = (from Location location in Locations where (location.Item == null) && location.CanAccess(haveItems) select location).ToList();
-            var currentWeight = (from item in retVal orderby item.Weight descending select item.Weight).First() + 1;
+            // var currentWeight = (from item in retVal orderby item.Weight descending select item.Weight).First() + 10;
+            var currentWeight = 1;
 
             foreach (var item in retVal.Where(item => item.Weight == 0))
             {
@@ -1777,7 +1889,7 @@ namespace SuperMetroidRandomizer.Rom
             }
 
             var addedItems = new List<List<Location>>();
-            for (int i = 1; i < currentWeight; i++)
+            for (int i = 1; i > currentWeight; i++)
             {
                 addedItems.Add(retVal.Where(x => x.Weight > i).ToList());
             }
@@ -1827,6 +1939,96 @@ namespace SuperMetroidRandomizer.Rom
 						   //10 supers
 						   //---110 items
                            ItemType.MorphingBall,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,                           
+						   ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,                           
+						   ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,                           
+						   ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+                           ItemType.Missile,
+						   ItemType.Missile,
+						   ItemType.Missile,
+                           ItemType.SuperMissile,
+                           ItemType.SuperMissile,
+                           ItemType.SuperMissile,
+                           ItemType.SuperMissile,
+                           ItemType.SuperMissile,
+                           ItemType.SuperMissile,
+                           ItemType.SuperMissile,
+                           ItemType.SuperMissile,
+                           ItemType.SuperMissile,
+                           ItemType.SuperMissile,
+                           ItemType.PowerBomb,
+                           ItemType.PowerBomb,
+                           ItemType.PowerBomb,
+                           ItemType.PowerBomb,
+                           ItemType.PowerBomb,
+                           ItemType.PowerBomb,
+                           ItemType.PowerBomb,
+                           ItemType.PowerBomb,
+                           ItemType.PowerBomb,
+                           ItemType.PowerBomb,
+                           ItemType.EnergyTank,
+                           ItemType.EnergyTank,
+                           ItemType.EnergyTank,
+                           ItemType.EnergyTank,
+                           ItemType.EnergyTank,
+                           ItemType.EnergyTank,
+                           ItemType.EnergyTank,
+                           ItemType.EnergyTank,
+                           ItemType.EnergyTank,
+                           ItemType.EnergyTank,
+                           ItemType.EnergyTank,
+                           ItemType.EnergyTank,
+                           ItemType.EnergyTank,
+                           ItemType.EnergyTank,
                            ItemType.Bomb,
                            ItemType.ChargeBeam,
                            ItemType.Spazer,
@@ -1846,96 +2048,6 @@ namespace SuperMetroidRandomizer.Rom
                            ItemType.ReserveTank,
                            ItemType.ReserveTank,
                            ItemType.ReserveTank,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,                           
-						   ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,                           
-						   ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,                           
-						   ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-                           ItemType.Missile,
-						   ItemType.Missile,
-						   ItemType.Missile,
-                           ItemType.SuperMissile,
-                           ItemType.SuperMissile,
-                           ItemType.SuperMissile,
-                           ItemType.SuperMissile,
-                           ItemType.SuperMissile,
-                           ItemType.SuperMissile,
-                           ItemType.SuperMissile,
-                           ItemType.SuperMissile,
-                           ItemType.SuperMissile,
-                           ItemType.SuperMissile,
-                           ItemType.PowerBomb,
-                           ItemType.PowerBomb,
-                           ItemType.PowerBomb,
-                           ItemType.PowerBomb,
-                           ItemType.PowerBomb,
-                           ItemType.PowerBomb,
-                           ItemType.PowerBomb,
-                           ItemType.PowerBomb,
-                           ItemType.PowerBomb,
-                           ItemType.PowerBomb,
-                           ItemType.EnergyTank,
-                           ItemType.EnergyTank,
-                           ItemType.EnergyTank,
-                           ItemType.EnergyTank,
-                           ItemType.EnergyTank,
-                           ItemType.EnergyTank,
-                           ItemType.EnergyTank,
-                           ItemType.EnergyTank,
-                           ItemType.EnergyTank,
-                           ItemType.EnergyTank,
-                           ItemType.EnergyTank,
-                           ItemType.EnergyTank,
-                           ItemType.EnergyTank,
-                           ItemType.EnergyTank,
                        };
         }
     }
