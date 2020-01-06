@@ -29,7 +29,7 @@ This is a Christmas present for Leodox and Foosda. Thank you for what you do!
       
 ----------------------------------------------  
 
-An Item Randomizer program for the Super Metroid Romhack called Hyper Metroid.  
+An Item Randomizer program for the Super Metroid Romhack called Z-Factor.  
 It's a fork from Dessy's original Super Metroid Randomizer program, that can be found here: https://github.com/Dessyreqt/smrandomizer
 # HUGE THANKS TO DESSY, YOU ARE AWESOME
 
