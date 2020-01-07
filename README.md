@@ -1,5 +1,5 @@
 # Z-Factor Item Randomizer
-# Downloads: [Z-Factor Item Randomizer v1.10](https://github.com/Galamoz/Z-Factor-ItemRandomizer/releases/download/1.1/Z-Factor.Item.Rando.v1.1.exe)
+# Downloads: [Z-Factor Item Randomizer v1.11](https://github.com/Galamoz/Z-Factor-ItemRandomizer/releases/download/1.11/Z-Factor.Item.Rando.v1.11.exe)
 ##### Full Map Reference including item names: https://i.imgur.com/CiUhitW.jpg  
 This is a Christmas present for Leodox and Foosda. Thank you for what you do!    
 
@@ -41,7 +41,12 @@ It's a fork from Dessy's original Super Metroid Randomizer program, that can be 
 
 
 ## Z-Factor Item Randomizer Changelog
-##### Gameplay is the same as the Original Super Metroid
+##### Gameplay is the same as the Original Super Metroidv 
+
+v1.11
+
+    Fixed Morph Ball as Spring Ball glitch (JAM)
+    
 v 1.1
 
     Fixed Etecoon Room
