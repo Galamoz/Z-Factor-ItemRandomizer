@@ -6,6 +6,7 @@ This is a Christmas present for Leodox and Foosda. Thank you for what you do!
 
 #### Rules:
 
+      Defeat the 4 main bosses to unlock Tourian and defeat Mother Brain
       Level design modified to prevent softlocks and assist newer players
       Save often!
      
